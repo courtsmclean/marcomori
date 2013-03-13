@@ -115,7 +115,7 @@ button, input[type="button"], input[type="reset"], input[type="submit"] { cursor
 
 body { 
   font: 13px 'Helvetica Neue', Arial, sans-serif;
-  background: #000;
+  background: #f4f3ef;
   color: #333;
   line-height: 1.6em;
 }
@@ -165,12 +165,12 @@ strong { font-weight: bold; }
 
 header {
   display: block;
+  padding: 10px 0
 
 }
 #site-nav {
-  position: absolute;
-  width: 180px;
-  padding:  0 10px;
+  width: 100%;
+  padding:  0;
 }
 
 #site-nav h1 {
@@ -198,10 +198,10 @@ header {
 
 #site-nav li {
   border-radius: 4px;
+  display: inline;
 }
 
 #site-nav li a {
-  display: block;
   padding: 3px 5px;
 }
 
@@ -319,7 +319,6 @@ button {
 #site-footer {
   clear: both;
   margin: 20px 0px;
-  border-top: 2px solid #DCA;
   padding-top: 10px;
   line-height: 30px;
   font-size: 95%;
@@ -381,8 +380,15 @@ button {
 
 /**** Demos ****/
 
+#wrapper {
+  /*background: red;*/
+  margin: 0 auto;
+  max-width: 90%;
+  min-height: 5px;
+  overflow: auto;
+}
 #container {
-  padding: 15px;
+  padding: 5px;
   margin-bottom: 20px;
   clear: both;
 }
@@ -390,8 +396,8 @@ button {
 .centered { margin: 0 auto; }
 
 .box {
-  margin: 5px;
-  padding: 5px;
+  margin: 5px 10px 5px 0;
+  padding: 5px 10px 5px 0;
   font-size: 11px;
   line-height: 1.4em;
   float: left;

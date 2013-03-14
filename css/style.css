@@ -115,7 +115,7 @@ button, input[type="button"], input[type="reset"], input[type="submit"] { cursor
 
 body { 
   font: 13px 'Helvetica Neue', Arial, sans-serif;
-  background: #f4f3ef;
+  background: #E8E8E8;
   color: #333;
   line-height: 1.6em;
 }
@@ -139,11 +139,11 @@ p { margin-top: 0; }
 h1, h2 {
   font-weight: 100;
   line-height: 1.2em;
-  margin-bottom: 0.6em;
+  margin-bottom: 0;
 }
 
 h1 {
-  font-size: 36px;
+  font-size: 2em;
 }
 
 h2 {
@@ -164,8 +164,10 @@ strong { font-weight: bold; }
 /**** #site-nav ****/
 
 header {
+  background: white;
   display: block;
-  padding: 10px 0
+  margin: 0px 0 0;
+  padding: 10px 0;
 
 }
 #site-nav {

@@ -19,7 +19,7 @@
 
 
 <header>
-<section id="wrapper">
+<section class="wrapper">
   <h1>Marco Mori</h1>
 
   <nav id="site-nav">

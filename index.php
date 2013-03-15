@@ -3,80 +3,80 @@
 
 <?php include('includes/header.php'); ?>
 
-<section id="wrapper">
+<section class="wrapper">
   <div id="container" class="centered clearfix">
 
 
     <div class="box photo col3 masonry-brick">
-      <img src="images/hugo_hero_shot.jpg" class="">
+      <a href=""><img src="images/home/hugo_boss1.jpg" class="scale-with-grid"></a>
     </div>
 
     <div class="box photo col3 masonry-brick">
-      <img src="images/personal_hero_shot.jpg" class="">
+      <a href=""><img src="images/home/hugo_boss2.jpg" class="scale-with-grid"></a>
     </div>
 
     <div class="box photo col3 masonry-brick">
-      <img src="images/hugo_hero_shot.jpg" class="">
+      <a href=""><img src="images/home/lucozade_sport_nfu1.jpg" class="scale-with-grid"></a>
     </div>
 
     <div class="box photo col3 masonry-brick">
-      <img src="images/personal_hero_shot.jpg" class="">
+      <a href=""><img src="images/home/lucozade_sport_nfu2.jpg" class="scale-with-grid"></a>
     </div>
 
     <div class="box photo col3 masonry-brick">
-      <img src="images/hugo_hero_shot.jpg" class="">
+      <a href=""><img src="images/home/personal1.jpg" class="scale-with-grid"></a>
     </div>
 
     <div class="box photo col3 masonry-brick">
-      <img src="images/hugo_hero_shot.jpg" class="">
+      <a href=""><img src="images/home/personal2.jpg" class="scale-with-grid"></a>
     </div>
 
     <div class="box photo col3 masonry-brick">
-      <img src="images/hugo_hero_shot.jpg" class="">
+      <a href=""><img src="images/home/still_life1.jpg" class="scale-with-grid"></a>
     </div>
 
     <div class="box photo col3 masonry-brick">
-      <img src="images/personal_hero_shot.jpg" class="">
+      <a href=""><img src="images/home/still_life2.jpg" class="scale-with-grid"></a>
     </div>
 
     <div class="box photo col3 masonry-brick">
-      <img src="images/hugo_hero_shot.jpg" class="">
+      <a href=""><img src="images/home/lucozade_sport1.jpg" class="scale-with-grid"></a>
     </div>
 
     <div class="box photo col3 masonry-brick">
-      <img src="images/hugo_hero_shot.jpg" class="">
+      <a href=""><img src="images/home/lucozade_sport2.jpg" class="scale-with-grid"></a>
     </div>
 
     <div class="box photo col3 masonry-brick">
-      <img src="images/personal_hero_shot.jpg" class="">
+      <a href=""><img src="images/home/lucozade_energy1.jpg" class="scale-with-grid"></a>
     </div>
 
     <div class="box photo col3 masonry-brick">
-      <img src="images/hugo_hero_shot.jpg" class="">
+      <a href=""><img src="images/home/lucozade_energy2.jpg" class="scale-with-grid"></a>
     </div>
 
     <div class="box photo col3 masonry-brick">
-      <a href=""><img src="images/hugo_hero_shot.jpg" class=""></a>
+      <a href=""><img src="images/home/hugo_hero_shot.jpg" class="scale-with-grid"></a>
     </div>
 
     <div class="box photo col3 masonry-brick">
-      <img src="images/personal_hero_shot.jpg" class="">
+      <a href=""><img src="images/home/personal_hero_shot.jpg" class="scale-with-grid"></a>
     </div>
 
     <div class="box photo col3 masonry-brick">
-      <img src="images/personal_hero_shot.jpg" class="">
+      <a href=""><img src="images/home/personal_hero_shot.jpg" class="scale-with-grid"></a>
     </div>
 
     <div class="box photo col3 masonry-brick">
-      <img src="images/hugo_hero_shot.jpg" class="">
+      <a href=""><img src="images/home/hugo_hero_shot.jpg" class="scale-with-grid"></a>
     </div>
 
     <div class="box photo col3 masonry-brick">
-      <img src="images/hugo_hero_shot.jpg" class="">
+      <a href=""><img src="images/home/hugo_hero_shot.jpg" class="scale-with-grid"></a>
     </div>
 
     <div class="box photo col3 masonry-brick">
-      <img src="images/hugo_hero_shot.jpg" class="">
+      <a href=""><img src="images/home/hugo_hero_shot.jpg" class="scale-with-grid"></a>
     </div>
 
   </div>
@@ -99,7 +99,7 @@
   window.onload = function() {
         
     var wall = new Masonry( document.getElementById('container'), {
-      isFitWidth: 0,
+      isFitWidth: true,
       gutterWidth: 0
     });
     

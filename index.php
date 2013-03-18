@@ -85,9 +85,7 @@
 
 
 
-<footer id="site-footer">
-  <?php include('includes/footer.php'); ?>
-</footer>
+<?php include('includes/footer.php'); ?>
 
 
 

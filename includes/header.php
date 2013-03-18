@@ -23,14 +23,25 @@
   <h1>Marco Mori</h1>
 
   <nav id="site-nav">
+    
     <ul>
-      <li><a href="" alt="" title="">Hugo Boss Fragrance</a></li>
-      <li><a href="" alt="" title="">Lucozade Energy</a></li>
-      <li><a href="" alt="" title="">Lucozade Sport</a></li>
-      <li><a href="" alt="" title="">Lucozade Sport NFU</a></li>
-      <li><a href="" alt="" title="">Personal</a></li>
-      <li><a href="" alt="" title="">Still Life</a></li>
+      <?php 
+      $nav = array(
+      'Hugo Boss Fragrance'  => 'index.php',
+      'Lucozade Energy'   => 'biography.php',
+      'Lucozade Sport' => 'photo.php',
+      'Lucozade Sport NFU'  => 'work.php',
+      'Personal' => 'contact.php',
+      'Personal' => 'contact.php'
+      );
+
+      foreach($nav as $nav_title => $nav_link)
+      {
+          echo '<li '.($nav_link == basename($_SERVER['PHP_SELF']) ? 'class="selected"':'').'><a href="'.$nav_link.'">'.$nav_title.'</a></li>';
+      }
+      ?>
     </ul>
+
   </nav>
 </section>
 </header>

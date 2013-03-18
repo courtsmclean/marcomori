@@ -4,14 +4,18 @@
 <?php include('includes/header.php'); ?>
 
 <section class="wrapper">
+	<div id="single-image">
+		<img src="images/hugo-boss/single-hugo_boss1" class="centered scale-with-grid" alt="" title="">
+      
+      <div class="related">
+        <a href="" ><img src="images/home/hugo_boss1.jpg" class="centered scale-with-grid" alt="" title=""></a>
+        <a href="" ><img src="images/home/hugo_boss1.jpg" class="centered scale-with-grid" alt="" title=""></a>
 
+      </div>
+	</div>
+</section>
 
-
-</div>
-
-<footer id="site-footer">
-  <?php include('includes/footer.php'); ?>
-</footer>
+<?php include('includes/footer.php'); ?>
 
 
 

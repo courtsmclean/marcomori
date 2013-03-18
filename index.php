@@ -8,7 +8,7 @@
 
 
     <div class="box photo col3 masonry-brick">
-      <a href=""><img src="images/home/hugo_boss1.jpg" class="scale-with-grid"></a>
+      <a href=""><p>overlay the image?</p><img src="images/home/hugo_boss1.jpg" class="scale-with-grid"></a>
     </div>
 
     <div class="box photo col3 masonry-brick">
@@ -56,27 +56,27 @@
     </div>
 
     <div class="box photo col3 masonry-brick">
-      <a href=""><img src="images/home/hugo_hero_shot.jpg" class="scale-with-grid"></a>
+      <a href=""><img src="images/home/hugo_boss19.jpg" class="scale-with-grid"></a>
     </div>
 
     <div class="box photo col3 masonry-brick">
-      <a href=""><img src="images/home/personal_hero_shot.jpg" class="scale-with-grid"></a>
+      <a href=""><img src="images/home/hugo_boss20.jpg" class="scale-with-grid"></a>
     </div>
 
     <div class="box photo col3 masonry-brick">
-      <a href=""><img src="images/home/personal_hero_shot.jpg" class="scale-with-grid"></a>
+      <a href=""><img src="images/home/personal1.jpg" class="scale-with-grid"></a>
     </div>
 
     <div class="box photo col3 masonry-brick">
-      <a href=""><img src="images/home/hugo_hero_shot.jpg" class="scale-with-grid"></a>
+      <a href=""><img src="images/home/personal2.jpg" class="scale-with-grid"></a>
     </div>
 
     <div class="box photo col3 masonry-brick">
-      <a href=""><img src="images/home/hugo_hero_shot.jpg" class="scale-with-grid"></a>
+      <a href=""><img src="images/home/still_life1.jpg" class="scale-with-grid"></a>
     </div>
 
     <div class="box photo col3 masonry-brick">
-      <a href=""><img src="images/home/hugo_hero_shot.jpg" class="scale-with-grid"></a>
+      <a href=""><img src="images/home/still_life2.jpg" class="scale-with-grid"></a>
     </div>
 
   </div>

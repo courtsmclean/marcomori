@@ -319,6 +319,8 @@ header #site-nav {
   font-weight: 200;
   text-transform: uppercase;
 }
+#site-nav li a.selected {color: black;}
+
 #site-nav li a:hover {
   color: #333;
 }

@@ -1,14 +1,15 @@
 <body class="homepage ">
   
-
+<?php $title = "Marco Mori - Photographer"; ?>
 <?php include('includes/header.php'); ?>
 
 <section class="wrapper">
+  
   <div id="container" class="centered clearfix">
 
 
     <div class="box photo col3 masonry-brick">
-      <a href=""><p>overlay the image?</p><img src="images/home/hugo_boss1.jpg" class="scale-with-grid"></a>
+      <a href=""><img src="images/home/hugo_boss1.jpg" class="scale-with-grid"></a>
     </div>
 
     <div class="box photo col3 masonry-brick">
@@ -80,33 +81,12 @@
     </div>
 
   </div>
- </section>
-
-
+ </section><!-- #wrapper -->
 
 
 <?php include('includes/footer.php'); ?>
 
-
-
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-<script>window.jQuery || document.write('<script src="js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
-
-<script src="masonry.min.js"></script>
-<script>
-  window.onload = function() {
-        
-    var wall = new Masonry( document.getElementById('container'), {
-      isFitWidth: true,
-      gutterWidth: 0
-    });
     
-  };
-</script>
-
-    
-    
-  </section> <!-- #content -->
 
 </body>
 </html>

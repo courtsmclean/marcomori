@@ -10,29 +10,58 @@
   <meta name="viewport" content="width=device-width">
 
   <link rel="stylesheet" href="css/normalize.min.css">
-  <link rel="stylesheet" href="css/columns.css">
   <link rel="stylesheet" href="css/style.css" />
-  
-  <!-- scripts at bottom of page -->
+  <link rel="stylesheet" href="css/elastislide.css" />
 
+  <link href='http://fonts.googleapis.com/css?family=PT+Sans+Narrow&v1' rel='stylesheet' type='text/css' />
+  
+  <noscript>
+    <style>
+      .es-carousel ul{
+        display:block;
+      }
+    </style>
+  </noscript>
+  <script id="img-wrapper-tmpl" type="text/x-jquery-tmpl">  
+    <div class="rg-image-wrapper">
+      {{if itemsCount > 1}}
+        <div class="rg-image-nav">
+          <a href="#" class="rg-image-nav-prev">Previous Image</a>
+          <a href="#" class="rg-image-nav-next">Next Image</a>
+        </div>
+      {{/if}}
+      <div class="rg-image"></div>
+      <div class="rg-loading"></div>
+      <div class="rg-caption-wrapper">
+        <div class="rg-caption" style="display:none;">
+          <p></p>
+        </div>
+      </div>
+    </div>
+  </script>
+  <!-- scripts at bottom of page -->
+  
 </head>
 
 
+
+
 <header>
+
 <section class="wrapper">
-  <h1>Marco Mori</h1>
+  <h1><a href="index.php" title="" alt=""><img src="images/marcomori.png"></a></h1>
 
   <nav id="site-nav">
 
     <ul>
       <?php 
       $nav = array(
-      'Hugo Boss Fragrance'  => 'index.php',
-      'Lucozade Energy'   => 'page.php',
-      'Lucozade Sport' => 'photo.php',
-      'Lucozade Sport NFU'  => 'work.php',
-      'Personal' => 'contact.php',
-      'Personal' => 'contact.php'
+      'Hugo Boss Fragrance'  => 'page.php',
+      'Lucozade Energy'   => 'index.php',
+      'Lucozade Sport' => 'lucozade-sport.php',
+      'Lucozade Sport NFU'  => 'lucozade-sport-nfu.php',
+      'Personal' => 'personal.php',
+      'Still Life' => 'still-life.php'
       );
 
       foreach($nav as $nav_title => $nav_link)
@@ -44,4 +73,6 @@
 
   </nav>
 </section>
+
 </header>
+

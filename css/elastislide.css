@@ -1,33 +1,24 @@
 /* Elastislide Style */
 .es-carousel-wrapper{
-	background: #101010;
 	padding:10px 27px;
-	-moz-border-radius: 10px;
-	-webkit-border-radius: 10px;
-	border-radius: 10px;
 	position:relative;
-	-moz-box-shadow:0px 1px 3px rgba(0, 0, 0, 0.9);
-	-webkit-box-shadow:0px 1px 3px rgba(0, 0, 0, 0.9);
-	box-shadow:0px 1px 3px rgba(0, 0, 0, 0.9);
 	position:relative;
-	margin-bottom:20px;
 }
 .es-carousel{
 	overflow:hidden;
-	background:#000;
 }
 .es-carousel ul{
 	display:none;
 }
 .es-carousel ul li{
-	height:100%;
+	height:auto;
 	float:left;
 	display:block;
 }
 .es-carousel ul li a{
 	display:block;
 	border-style:solid;
-	border-color:#222;
+	border-color:#fff;
 	opacity:0.8;
 	-webkit-touch-callout:none;
 	/* option */
@@ -38,7 +29,7 @@
 	transition: all 0.2s ease-in-out;
 }
 .es-carousel ul li.selected a{
-	border-color:#fff;
+	border-color:#222;
 	opacity:1.0;
 }
 .es-carousel ul li a img{

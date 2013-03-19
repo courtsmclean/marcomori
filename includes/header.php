@@ -5,7 +5,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
   <!--[if lt IE 9]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
   
-  <title>Marco Mori</title>
+  <title><?php echo $page_title; ?></title>
   <meta name="description" content="">
   <meta name="viewport" content="width=device-width">
 

@@ -17,7 +17,8 @@
 
 
     <div class="box photo col3 masonry-brick">
-      <a href=""><img src="images/home/hugo_boss1.jpg" class="scale-with-grid"></a>
+      <a 
+      href=""><img src="images/home/hugo_boss1.jpg" class="scale-with-grid"></a>
     </div>
 
     <div class="box photo col3 masonry-brick">

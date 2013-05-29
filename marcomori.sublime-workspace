@@ -4,20 +4,76 @@
 		"selected_items":
 		[
 			[
-				"margin",
-				"margin-bottom"
+				"bor",
+				"border"
+			],
+			[
+				"o",
+				"opacity"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"bo",
+				"bottom"
 			],
 			[
 				"mar",
 				"margin-bottom"
 			],
 			[
-				"whi",
-				"white-panel"
+				"te",
+				"text-align"
 			],
 			[
-				"o",
-				"overflow"
+				"text",
+				"text-align"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"bord",
+				"border-bottom"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"backg",
+				"background"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"t",
+				"text-transform"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"n",
+				"nav	Tag"
+			],
+			[
+				"hea",
+				"header	Tag"
+			],
+			[
+				"whi",
+				"white-panel"
 			],
 			[
 				"ma",
@@ -32,16 +88,8 @@
 				"speakers-container"
 			],
 			[
-				"text",
-				"text"
-			],
-			[
 				"di",
 				"display"
-			],
-			[
-				"bo",
-				"border"
 			],
 			[
 				"bac",
@@ -56,24 +104,8 @@
 				"font-weight"
 			],
 			[
-				"te",
-				"text-align"
-			],
-			[
-				"t",
-				"text-align"
-			],
-			[
 				"fi",
 				"first-child"
-			],
-			[
-				"marg",
-				"margin-top"
-			],
-			[
-				"bord",
-				"border"
 			],
 			[
 				"font-f",
@@ -82,20 +114,48 @@
 			[
 				"co",
 				"color"
-			],
-			[
-				"backg",
-				"background-color"
 			]
 		]
 	},
 	"buffers":
 	[
 		{
+			"file": "css/style.css",
+			"settings":
+			{
+				"buffer_size": 11820,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "page.php",
+			"settings":
+			{
+				"buffer_size": 4352,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "hugo-boss-fragrance.php",
+			"settings":
+			{
+				"buffer_size": 3022,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "includes/footer.php",
+			"settings":
+			{
+				"buffer_size": 953,
+				"line_ending": "Unix"
+			}
+		},
+		{
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 3116,
+				"buffer_size": 3354,
 				"line_ending": "Unix"
 			}
 		}
@@ -103,15 +163,27 @@
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 187.0,
+		"height": 392.0,
 		"selected_items":
 		[
 			[
-				"git",
-				"Package Control: Install Package"
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
 			],
 			[
 				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"git",
 				"Package Control: Install Package"
 			],
 			[
@@ -131,7 +203,7 @@
 				"Preferences: Browse Packages"
 			]
 		],
-		"width": 449.0
+		"width": 575.0
 	},
 	"console":
 	{
@@ -148,6 +220,20 @@
 	},
 	"file_history":
 	[
+		"/Users/courtneymclean/Desktop/marcomori.png",
+		"/Users/courtneymclean/Desktop/Hogarth/Marco Mori/marcomori/includes/header.php",
+		"/Users/courtneymclean/Desktop/Hogarth/Marco Mori/marcomori/js/gallery.js",
+		"/Users/courtneymclean/Desktop/Hogarth/Marco Mori/marcomori/css/elastislide.css",
+		"/Users/courtneymclean/Desktop/Hogarth/Marco Mori/marcomori/includes/footer.php",
+		"/Users/courtneymclean/Desktop/Hogarth/Marco Mori/marcomori/js/jquery.easing.1.3.js",
+		"/Users/courtneymclean/Desktop/Hogarth/Marco Mori/marcomori/inde.html",
+		"/Users/courtneymclean/Desktop/Hogarth/Marco Mori/marcomori/css/demo.css",
+		"/Users/courtneymclean/Desktop/Hogarth/Marco Mori/marcomori/css/styles.css",
+		"/Users/courtneymclean/Desktop/Hogarth/Marco Mori/marcomori/index.html",
+		"/Users/courtneymclean/Desktop/Hogarth/Marco Mori/marcomori/index.php",
+		"/Users/courtneymclean/Desktop/Hogarth/Marco Mori/marcomori/page.php",
+		"/Users/courtneymclean/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/courtneymclean/Desktop/Hogarth/Marco Mori/marcomori/variables/variables.php",
 		"/Users/courtneymclean/Desktop/Hogarth/_Digital Sessions/digitalsessions/css/columns.css",
 		"/Users/courtneymclean/Desktop/Hogarth/_Digital Sessions/digitalsessions/index.html",
 		"/Users/courtneymclean/Desktop/Hogarth/_Digital Sessions/digitalsessions/css/main.css",
@@ -178,6 +264,41 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"container",
+			"rg",
+			"view",
+			"home",
+			"nav",
+			"imageW",
+			"69",
+			"single",
+			"wrapp",
+			"single",
+			"image",
+			"images",
+			"#images",
+			"images",
+			"SCALE",
+			"footer",
+			"container",
+			"header",
+			"center",
+			"header",
+			"homepage",
+			"header",
+			"\n  ",
+			"body",
+			"header",
+			"h1",
+			"body",
+			"wrapper",
+			"body",
+			"git",
+			"body",
+			"nav",
+			"box",
+			"container",
+			"footer",
 			"schedu",
 			"schedule-container",
 			"nth",
@@ -213,23 +334,135 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "index.html",
+					"file": "css/style.css",
 					"settings":
 					{
-						"buffer_size": 3116,
+						"buffer_size": 11820,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								4088,
+								4097
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "page.php",
+					"settings":
+					{
+						"buffer_size": 4352,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4136,
+								4140
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "hugo-boss-fragrance.php",
+					"settings":
+					{
+						"buffer_size": 3022,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								891,
+								891
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "includes/footer.php",
+					"settings":
+					{
+						"buffer_size": 953,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								903,
+								903
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 3354,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								593,
+								559
 							]
 						],
 						"settings":

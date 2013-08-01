@@ -4,20 +4,88 @@
 		"selected_items":
 		[
 			[
+				"mar",
+				"margin"
+			],
+			[
+				"st",
+				"strong	Tag"
+			],
+			[
+				"text",
+				"textbox"
+			],
+			[
+				"r",
+				"rgba()"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"o",
+				"opacity"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
 				"margin",
 				"margin-bottom"
 			],
 			[
-				"mar",
-				"margin-bottom"
+				"bord",
+				"border-bottom"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"backg",
+				"background"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"t",
+				"text-transform"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"n",
+				"nav	Tag"
+			],
+			[
+				"hea",
+				"header	Tag"
 			],
 			[
 				"whi",
 				"white-panel"
-			],
-			[
-				"o",
-				"overflow"
 			],
 			[
 				"ma",
@@ -32,16 +100,8 @@
 				"speakers-container"
 			],
 			[
-				"text",
-				"text"
-			],
-			[
 				"di",
 				"display"
-			],
-			[
-				"bo",
-				"border"
 			],
 			[
 				"bac",
@@ -56,24 +116,8 @@
 				"font-weight"
 			],
 			[
-				"te",
-				"text-align"
-			],
-			[
-				"t",
-				"text-align"
-			],
-			[
 				"fi",
 				"first-child"
-			],
-			[
-				"marg",
-				"margin-top"
-			],
-			[
-				"bord",
-				"border"
 			],
 			[
 				"font-f",
@@ -82,20 +126,49 @@
 			[
 				"co",
 				"color"
-			],
-			[
-				"backg",
-				"background-color"
 			]
 		]
 	},
 	"buffers":
 	[
 		{
-			"file": "index.html",
+			"file": "css/style.css",
 			"settings":
 			{
-				"buffer_size": 3116,
+				"buffer_size": 12325,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 2906,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "includes/header.php",
+			"settings":
+			{
+				"buffer_size": 2041,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "photogallery-template.php",
+			"settings":
+			{
+				"buffer_size": 3347,
+				"line_ending": "Unix",
+				"name": "<body class=\"homepage \">"
+			}
+		},
+		{
+			"file": "page.php",
+			"settings":
+			{
+				"buffer_size": 4352,
 				"line_ending": "Unix"
 			}
 		}
@@ -103,15 +176,27 @@
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 187.0,
+		"height": 392.0,
 		"selected_items":
 		[
 			[
-				"git",
-				"Package Control: Install Package"
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
 			],
 			[
 				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"git",
 				"Package Control: Install Package"
 			],
 			[
@@ -131,7 +216,7 @@
 				"Preferences: Browse Packages"
 			]
 		],
-		"width": 449.0
+		"width": 575.0
 	},
 	"console":
 	{
@@ -148,6 +233,33 @@
 	},
 	"file_history":
 	[
+		"/Users/courtneymclean/Desktop/Hogarth/Marco Mori/marcomori/js/masonry.js",
+		"/Users/courtneymclean/Desktop/Hogarth/Marco Mori/marcomori/still-life.php",
+		"/Users/courtneymclean/Desktop/Hogarth/Marco Mori/marcomori/vodafone.php",
+		"/Users/courtneymclean/Desktop/Hogarth/Marco Mori/marcomori/index.html",
+		"/Users/courtneymclean/Desktop/Hogarth/Marco Mori/marcomori/contact.php",
+		"/Users/courtneymclean/Desktop/Hogarth/Marco Mori/marcomori/includes/header.php",
+		"/Users/courtneymclean/Desktop/Hogarth/Marco Mori/marcomori/bio.php",
+		"/Users/courtneymclean/Desktop/Hogarth/Marco Mori/marcomori/page.php",
+		"/Users/courtneymclean/Desktop/Hogarth/Marco Mori/marcomori/hugo-boss-fragrance.php",
+		"/Users/courtneymclean/Desktop/Hogarth/Marco Mori/marcomori/lucozade-energy.php",
+		"/Users/courtneymclean/Desktop/Hogarth/Marco Mori/marcomori/lucozade-sport-nfu.php",
+		"/Users/courtneymclean/Desktop/Hogarth/Marco Mori/marcomori/lucozade-sport.php",
+		"/Users/courtneymclean/Desktop/Hogarth/Marco Mori/marcomori/personal.php",
+		"/Users/courtneymclean/Desktop/Hogarth/Marco Mori/marcomori/pantene.php",
+		"/Users/courtneymclean/Desktop/Hogarth/Marco Mori/marcomori/includes/footer.php",
+		"/Users/courtneymclean/Desktop/Hogarth/Marco Mori/marcomori/css/style.css",
+		"/Users/courtneymclean/Desktop/Hogarth/Marco Mori/marcomori/images/home/home_hugoboss1.jpg",
+		"/Users/courtneymclean/Desktop/marcomori.png",
+		"/Users/courtneymclean/Desktop/Hogarth/Marco Mori/marcomori/js/gallery.js",
+		"/Users/courtneymclean/Desktop/Hogarth/Marco Mori/marcomori/css/elastislide.css",
+		"/Users/courtneymclean/Desktop/Hogarth/Marco Mori/marcomori/js/jquery.easing.1.3.js",
+		"/Users/courtneymclean/Desktop/Hogarth/Marco Mori/marcomori/inde.html",
+		"/Users/courtneymclean/Desktop/Hogarth/Marco Mori/marcomori/css/demo.css",
+		"/Users/courtneymclean/Desktop/Hogarth/Marco Mori/marcomori/css/styles.css",
+		"/Users/courtneymclean/Desktop/Hogarth/Marco Mori/marcomori/index.php",
+		"/Users/courtneymclean/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/courtneymclean/Desktop/Hogarth/Marco Mori/marcomori/variables/variables.php",
 		"/Users/courtneymclean/Desktop/Hogarth/_Digital Sessions/digitalsessions/css/columns.css",
 		"/Users/courtneymclean/Desktop/Hogarth/_Digital Sessions/digitalsessions/index.html",
 		"/Users/courtneymclean/Desktop/Hogarth/_Digital Sessions/digitalsessions/css/main.css",
@@ -178,6 +290,66 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"</a></li>",
+			"<li><a href=\"#\">",
+			"gallery",
+			"box",
+			"photo",
+			"box",
+			"textb",
+			"body",
+			"h1",
+			"textb",
+			"container",
+			"h1",
+			"photo",
+			"box",
+			"vodafone",
+			"name",
+			"folder",
+			"name",
+			"folder",
+			"name",
+			"folder",
+			"name",
+			"folder",
+			"home",
+			"wrapper",
+			"container",
+			"rg",
+			"view",
+			"home",
+			"nav",
+			"imageW",
+			"69",
+			"single",
+			"wrapp",
+			"single",
+			"image",
+			"images",
+			"#images",
+			"images",
+			"SCALE",
+			"footer",
+			"container",
+			"header",
+			"center",
+			"header",
+			"homepage",
+			"header",
+			"\n  ",
+			"body",
+			"header",
+			"h1",
+			"body",
+			"wrapper",
+			"body",
+			"git",
+			"body",
+			"nav",
+			"box",
+			"container",
+			"footer",
 			"schedu",
 			"schedule-container",
 			"nth",
@@ -203,6 +375,14 @@
 		"regex": false,
 		"replace_history":
 		[
+			"personal",
+			"pantene",
+			"lucozade-energy",
+			"lucozade-sport-nfu",
+			"still-life",
+			"vodafone",
+			"lucozade-sport",
+			"hugo-boss"
 		],
 		"reverse": false,
 		"show_context": true,
@@ -218,23 +398,196 @@
 			[
 				{
 					"buffer": 0,
-					"file": "index.html",
+					"file": "css/style.css",
 					"settings":
 					{
-						"buffer_size": 3116,
+						"buffer_size": 12325,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								8959,
+								8959
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 6390.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.php",
+					"settings":
+					{
+						"buffer_size": 2906,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								190,
+								190
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "includes/header.php",
+					"settings":
+					{
+						"buffer_size": 2041,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								757,
+								757
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "photogallery-template.php",
+					"settings":
+					{
+						"buffer_size": 3347,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								414,
+								414
+							],
+							[
+								592,
+								592
+							],
+							[
+								770,
+								770
+							],
+							[
+								948,
+								948
+							],
+							[
+								1126,
+								1126
+							],
+							[
+								1304,
+								1304
+							],
+							[
+								1482,
+								1482
+							],
+							[
+								1660,
+								1660
+							],
+							[
+								1838,
+								1838
+							],
+							[
+								2018,
+								2018
+							],
+							[
+								2198,
+								2198
+							],
+							[
+								2378,
+								2378
+							],
+							[
+								2558,
+								2558
+							],
+							[
+								2738,
+								2738
+							],
+							[
+								2918,
+								2918
+							],
+							[
+								3098,
+								3098
+							]
+						],
+						"settings":
+						{
+							"auto_name": "<body class=\"homepage \">",
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "page.php",
+					"settings":
+					{
+						"buffer_size": 4352,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								568,
+								4022
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
@@ -249,7 +602,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 0.0
+		"height": 34.0
 	},
 	"input":
 	{
@@ -280,7 +633,7 @@
 	"menu_visible": true,
 	"replace":
 	{
-		"height": 0.0
+		"height": 64.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -303,6 +656,6 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 201.0,
+	"side_bar_width": 273.0,
 	"status_bar_visible": true
 }

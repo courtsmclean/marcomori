@@ -54,7 +54,7 @@
 <header>
 
 <section class="wrapper">
-  <h1><a href="index.php" title="" alt=""><img src="images/marcomori.png"></a></h1>
+  <h1><a href="index.php" title="" alt=""><img src="images/marcomori.png" class="scale-with-grid"></a></h1>
 
   <nav id="site-nav">
 

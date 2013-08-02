@@ -130,11 +130,15 @@ button, input[type="button"], input[type="reset"], input[type="submit"] { cursor
    ========================================================================== */
 
 body { 
-  font: 16px 'PT Sans Narrow',Helvetica Neue, Arial, sans-serif;
+/*  font: 16px 'PT Sans Narrow',Helvetica Neue, Arial, sans-serif;
+*/
+  font-family: 'Lato', Calibri, Arial, sans-serif;
   background: white;
   color: #333;
   line-height: 1.6em;
 }
+
+@import url(http://fonts.googleapis.com/css?family=Lato:300,400,700);
 
 
 /* Containers / Wrappers ================================= */
@@ -290,7 +294,7 @@ header #site-nav {
 /*  border-top: 1px solid #ccc;
   border-bottom: 1px solid #ccc;
 */  
-  margin: 40px 0 12px 0;
+  margin: 25px 0 12px 0;
   padding: 10px 0;
   width: 100%;
 }
@@ -307,7 +311,7 @@ header #site-nav {
 #site-nav ul {
   list-style: none;
   padding-left: 0;
-  font-size: 14px;
+  font-size: 1em;
 }
 
 #site-nav li {
@@ -467,140 +471,67 @@ a.box:hover span{
 
 
 /* Gallery ================================= */
-#gallery {
-    margin: 20px auto;
-    max-width: 800px;
+
+*,
+*:after,
+*:before {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
 }
 
-#demo {
-    background: none repeat scroll 0 0 #FFFFFF;
-    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
-    height: 432px;
-    margin: 30px auto;
-    padding: 12px;
-    width: 800px;
-}
-#demo {
-    height: auto;
-    margin: 0 auto;
-    width: auto;
+
+.demo-4 .elastislide-horizontal.elastislide-loading {
 }
 
-#galleria{ 
-  width: 100%; 
-  height: 540px; 
-  background: transparent; 
+.demo-4 .elastislide-carousel ul li a{
+  padding: 2px;
 }
 
-.galleria-thumbnails{
+.demo-4 .elastislide-carousel ul li a img {
+  border: none;
+}
+
+.demo-4 .elastislide-wrapper nav span {
+}
+
+.demo-4 .image-preview img {
+  max-width: 100%;
+  display: block;
   margin: 0 auto;
-  text-align: center;  
-}
-.galleria-info-link {
-display: none;
 }
 
-.rg-image-wrapper{
-  position:relative;
-  padding:20px 30px;
-  -moz-border-radius: 10px;
-  -webkit-border-radius: 10px;
-  border-radius: 10px;
-  min-height:20px;
+.demo-4 .elastislide-carousel ul li.current-img a img {
 }
-.rg-image{
-  position:relative;
-  text-align:center;
-  line-height:0px;
+
+
+
+.js .fixed-bar {
+  position: fixed;
+  width: 100%;
+  left: 0;
+  bottom: 0;
 }
-.rg-image img{
-  max-height:100%;
-  max-width:100%;
+
+.js .gallery {
+  width: 100%;
+  max-width: 800px;
+  margin: 0 auto;
+  position: relative;
 }
-.rg-image-nav a{
-  position:absolute;
-  top:0px;
-  left:0px;
-  background:url(../images/nav.png) no-repeat -20% 50%;
-  width:28px;
-  height:100%;
-  text-indent:-9000px;
-  cursor:pointer;
-  opacity:0.3;
-  outline:none;
-  -moz-border-radius: 10px 0px 0px 10px;
-  -webkit-border-radius: 10px 0px 0px 10px;
-  border-radius: 10px 0px 0px 10px;
-}
-.rg-image-nav a.rg-image-nav-next{
-  right:0px;
-  left:auto;
-  background-position:115% 50%;
-  -moz-border-radius: 0px 10px 10px 0px;
-  -webkit-border-radius: 0px 10px 10px 0px;
-  border-radius: 0px 10px 10px 0px;
-}
-.rg-image-nav a:hover{
-  opacity:0.8;
-}
-.rg-caption {
-  text-align:center;
-  margin-top:15px;
-  position:relative;
-}
-.rg-caption p{
-  font-size:11px;
-  letter-spacing:2px;
-  font-family: 'Trebuchet MS', 'Myriad Pro', Arial, sans-serif;
-  line-height:16px;
-  padding:0 15px;
-  text-transform:uppercase;
-}
-.rg-view{
-  height:10px;
+
+.lt-ie8 .elastislide-list {
   display: none;
 }
-.rg-view a{
-  display:block;
-  float:right;
-  width:16px;
-  height:16px;
-  margin-right:3px;
-  background:#464646 url(../images/views.png) no-repeat top left;
-  border:3px solid #464646;
-  opacity:0.8;
-}
-.rg-view a:hover{
-  opacity:1.0;
-}
-.rg-view a.rg-view-full{
-  background-position:0px 0px;
-}
-.rg-view a.rg-view-selected{
-  background-color:#6f6f6f;
-  border-color:#6f6f6f;
-}
-.rg-view a.rg-view-thumbs{
-  background-position:0px -16px;
-}
-.rg-loading{
-  width:46px;
-  height:46px;
-  position:absolute;
-  top:50%;
-  left:50%;
-  background:#000 url(../images/ajax-loader.gif) no-repeat center center;
-  margin:-23px 0px 0px -23px;
-  z-index:100;
-  -moz-border-radius: 10px;
-  -webkit-border-radius: 10px;
-  border-radius: 10px;
-  opacity:0.7;
-}
 
-
-
-
+@media screen and (max-width: 690px) {
+  .codrops-demos {
+    float: left;
+    clear: both;
+  }
+}
 
 
 .copy h2 {

@@ -11,11 +11,14 @@
 
   <link rel="stylesheet" href="css/normalize.min.css">
   <link rel="stylesheet" href="css/style.css" />
-  <link rel="stylesheet" href="css/elastislide.css" />
+<!--   <link rel="stylesheet" type="text/css" href="css/demo.css" />
+ -->  <link rel="stylesheet" type="text/css" href="css/elastislide.css" />
+  <link rel="stylesheet" type="text/css" href="css/custom.css" />
+
 
   <link href='http://fonts.googleapis.com/css?family=PT+Sans+Narrow&v1' rel='stylesheet' type='text/css' />
   <script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.js"></script>
-  <script src="galleria/galleria-1.2.9.min.js"></script>
+  <script src="js/modernizr.custom.17475.js"></script>
 
   <noscript>
     <style>

@@ -1,0 +1,23 @@
+
+.demo-4 .elastislide-horizontal.elastislide-loading {
+}
+
+.demo-4 .elastislide-carousel ul li a{
+	padding: 2px;
+}
+
+.demo-4 .elastislide-carousel ul li a img {
+	border: none;
+}
+
+.demo-4 .elastislide-wrapper nav span {
+}
+
+.demo-4 .image-preview img {
+	max-width: 100%;
+	display: block;
+	margin: 0 auto;
+}
+
+.demo-4 .elastislide-carousel ul li.current-img a img {
+}

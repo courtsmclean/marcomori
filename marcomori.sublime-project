@@ -2,7 +2,8 @@
 	"folders":
 	[
 		{
-			"path": "/Users/courtneymclean/Desktop/Hogarth/Marco Mori/marcomori"
+			"follow_symlinks": true,
+			"path": "/Users/courtneymclean/Sites/marcomori"
 		}
 	]
 }

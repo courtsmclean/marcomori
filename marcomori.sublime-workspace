@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"ma",
+				"margin"
+			],
+			[
 				"mar",
 				"margin"
 			],
@@ -88,10 +92,6 @@
 				"white-panel"
 			],
 			[
-				"ma",
-				"max-height"
-			],
-			[
 				"pad",
 				"padding"
 			],
@@ -132,43 +132,10 @@
 	"buffers":
 	[
 		{
-			"file": "css/style.css",
-			"settings":
-			{
-				"buffer_size": 12325,
-				"line_ending": "Unix"
-			}
-		},
-		{
 			"file": "index.php",
 			"settings":
 			{
 				"buffer_size": 2906,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "includes/header.php",
-			"settings":
-			{
-				"buffer_size": 2041,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "photogallery-template.php",
-			"settings":
-			{
-				"buffer_size": 3347,
-				"line_ending": "Unix",
-				"name": "<body class=\"homepage \">"
-			}
-		},
-		{
-			"file": "page.php",
-			"settings":
-			{
-				"buffer_size": 4352,
 				"line_ending": "Unix"
 			}
 		}
@@ -220,7 +187,10 @@
 	},
 	"console":
 	{
-		"height": 0.0
+		"height": 0.0,
+		"history":
+		[
+		]
 	},
 	"distraction_free":
 	{
@@ -233,12 +203,13 @@
 	},
 	"file_history":
 	[
+		"/Users/courtneymclean/Desktop/Hogarth/Marco Mori/marcomori/css/style.css",
+		"/Users/courtneymclean/Desktop/Hogarth/Marco Mori/marcomori/includes/header.php",
 		"/Users/courtneymclean/Desktop/Hogarth/Marco Mori/marcomori/js/masonry.js",
 		"/Users/courtneymclean/Desktop/Hogarth/Marco Mori/marcomori/still-life.php",
 		"/Users/courtneymclean/Desktop/Hogarth/Marco Mori/marcomori/vodafone.php",
 		"/Users/courtneymclean/Desktop/Hogarth/Marco Mori/marcomori/index.html",
 		"/Users/courtneymclean/Desktop/Hogarth/Marco Mori/marcomori/contact.php",
-		"/Users/courtneymclean/Desktop/Hogarth/Marco Mori/marcomori/includes/header.php",
 		"/Users/courtneymclean/Desktop/Hogarth/Marco Mori/marcomori/bio.php",
 		"/Users/courtneymclean/Desktop/Hogarth/Marco Mori/marcomori/page.php",
 		"/Users/courtneymclean/Desktop/Hogarth/Marco Mori/marcomori/hugo-boss-fragrance.php",
@@ -248,7 +219,6 @@
 		"/Users/courtneymclean/Desktop/Hogarth/Marco Mori/marcomori/personal.php",
 		"/Users/courtneymclean/Desktop/Hogarth/Marco Mori/marcomori/pantene.php",
 		"/Users/courtneymclean/Desktop/Hogarth/Marco Mori/marcomori/includes/footer.php",
-		"/Users/courtneymclean/Desktop/Hogarth/Marco Mori/marcomori/css/style.css",
 		"/Users/courtneymclean/Desktop/Hogarth/Marco Mori/marcomori/images/home/home_hugoboss1.jpg",
 		"/Users/courtneymclean/Desktop/marcomori.png",
 		"/Users/courtneymclean/Desktop/Hogarth/Marco Mori/marcomori/js/gallery.js",
@@ -290,6 +260,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"galleria-stage",
+			"galleria-images",
+			"tuhmb nav left",
 			"</a></li>",
 			"<li><a href=\"#\">",
 			"gallery",
@@ -398,35 +371,8 @@
 			[
 				{
 					"buffer": 0,
-					"file": "css/style.css",
-					"settings":
-					{
-						"buffer_size": 12325,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								8959,
-								8959
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/CSS/CSS.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 6390.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
 					"file": "index.php",
+					"semi_transient": false,
 					"settings":
 					{
 						"buffer_size": 2906,
@@ -436,159 +382,14 @@
 						"selection":
 						[
 							[
-								190,
-								190
+								0,
+								0
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/PHP/PHP.tmLanguage",
 							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "includes/header.php",
-					"settings":
-					{
-						"buffer_size": 2041,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								757,
-								757
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "photogallery-template.php",
-					"settings":
-					{
-						"buffer_size": 3347,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								414,
-								414
-							],
-							[
-								592,
-								592
-							],
-							[
-								770,
-								770
-							],
-							[
-								948,
-								948
-							],
-							[
-								1126,
-								1126
-							],
-							[
-								1304,
-								1304
-							],
-							[
-								1482,
-								1482
-							],
-							[
-								1660,
-								1660
-							],
-							[
-								1838,
-								1838
-							],
-							[
-								2018,
-								2018
-							],
-							[
-								2198,
-								2198
-							],
-							[
-								2378,
-								2378
-							],
-							[
-								2558,
-								2558
-							],
-							[
-								2738,
-								2738
-							],
-							[
-								2918,
-								2918
-							],
-							[
-								3098,
-								3098
-							]
-						],
-						"settings":
-						{
-							"auto_name": "<body class=\"homepage \">",
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "page.php",
-					"settings":
-					{
-						"buffer_size": 4352,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								568,
-								4022
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
@@ -631,6 +432,7 @@
 		]
 	},
 	"menu_visible": true,
+	"project": "marcomori.sublime-project",
 	"replace":
 	{
 		"height": 64.0
@@ -652,10 +454,24 @@
 		],
 		"width": 380.0
 	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
 	"show_minimap": true,
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
 	"side_bar_width": 273.0,
-	"status_bar_visible": true
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
 }
